@@ -1,4 +1,4 @@
-# Revving-Data-Analysis-in-the-Automotive-Realm
+# Revving Data Analysis in the Automotive Realm
 This project aimed to uncover valuable insights within automotive data, addressing business needs for informed decision-making. The primary goals were to conduct a comprehensive exploratory analysis, utilizing Python's Pandas, NumPy, and Scikit-Learn, and to present these insights through powerful predictive models.
 
 The project focused on understanding patterns and relationships within the automotive dataset, seeking correlations that could inform strategic decisions. By harnessing regression techniques and Ridge regression, this project not only discovered key trends but also crafted precise predictive models, contributing to the project's overarching goal of providing actionable insights for stakeholders.
